@@ -14,5 +14,7 @@ CREATE TABLE produto (
 ------------------------------------------------------------------------------
 Diretorios:
 controller: Especifica as rotas e os metodos invocados pelas mesmas.
+
 model: Contem as classes dos objetos das tabelas do banco.
+
 service: Contem os codigos das consultas SQL ao banco de dados.
